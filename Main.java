@@ -162,6 +162,7 @@ public class Main {
 				long end = System.currentTimeMillis();               // 프로그램 종료 시간 
 				System.out.println("차량 운행시간 : " + (end - start)/1000.0  + "초");         //차 운행 시간 보여주고
 				System.out.println("안녕히계세요");
+				break;
 			}
 		}
     }
